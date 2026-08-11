@@ -7,8 +7,22 @@
 **Verification ID:** `O75XU03SW640`  
 **Status:** ✅ Completed  
 
-[![Verify Certificate](https://img.shields.io/badge/Coursera-Verify%20Certificate-blue?style=for-the-badge&logo=coursera)](https://coursera.org/verify/O75XU03SW640)
-[![View PDF Certificate](https://img.shields.io/badge/PDF-View%20Certificate-red?style=for-the-badge&logo=adobeacrobatreader)](./AI%20Fundamentals%20certificate.pdf)
+<div align="left">
+  <a href="https://coursera.org/verify/O75XU03SW640">
+    <img src="https://img.shields.io/badge/Coursera-Verify%20Certificate-blue?style=for-the-badge&logo=coursera" alt="Verify Certificate"/>
+  </a>
+  <a href="./AI%20Fundamentals%20certificate.pdf">
+    <img src="https://img.shields.io/badge/PDF-Download%20Certificate-red?style=for-the-badge&logo=adobeacrobatreader" alt="Download PDF"/>
+  </a>
+</div>
+
+---
+
+## 📜 Course Certificate
+
+<div align="center">
+  <img src="./certificate-01.png" alt="Google AI Fundamentals Certificate - Naima Muse Ahmed" width="800" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;"/>
+</div>
 
 ---
 
