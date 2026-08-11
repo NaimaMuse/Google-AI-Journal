@@ -1,9 +1,21 @@
 # 🧠 Course 1: AI Fundamentals
 
-**Provider:** Google  
-**Program:** Google AI Professional Certificate  
-**Estimated Time:** 3 Hours  
+**Provider:** Google (via Coursera)[cite: 1]  
+**Program:** Google AI Professional Certificate[cite: 1]  
+**Recipient:** Naima Muse Ahmed[cite: 1]  
+**Completed On:** July 21, 2026[cite: 1]  
+**Verification ID:** `O75XU03SW640`[cite: 1]  
 **Status:** ✅ Completed  
+
+[![Verify Certificate](https://img.shields.io/badge/Coursera-Verify%20Certificate-blue?style=for-the-badge&logo=coursera)](https://coursera.org/verify/O75XU03SW640)[cite: 1]
+
+---
+
+## 📜 Official Certificate
+
+<div align="center">
+  <img src="./certificate-course-01.png" alt="Google AI Fundamentals Certificate - Naima Muse Ahmed" width="700"/>
+</div>
 
 ---
 
