@@ -1,47 +1,41 @@
-# 🤖 Google AI Professional Certificate Journal
+# 🧠 Course 1: AI Fundamentals
 
-[![Progress](https://img.shields.io/badge/Progress-3%2F7%20Courses%20Completed-brightgreen.svg)]()
-[![Total Estimated Effort](https://img.shields.io/badge/Total%20Program-10%20Hours-blue.svg)]()
-
-Welcome to my daily learning log and open-source repository! Here, I systematically document my prompt engineering workflows, practical AI tools, strategic frameworks, and technical summaries as I complete the **Google AI Professional Certificate**.
-
----
-
-## 📌 Executive Summary
-
-* **Provider:** Google
-* **Target Certification:** Google AI Professional Certificate
-* **Repository Goal:** Build a verifiable portfolio of applied AI techniques, prompt strategies, research synthesis, and rapid prototyping workflows.
-* **Core Tools & Stack:** Google Gemini, Gemini Deep Research, NotebookLM / Gemini Notebook, Custom Gem Personas, Multi-modal AI.
-* **Current Progress:** **5 of 10 Hours Completed** (3 of 7 Courses Mastered 🚀)
+**Provider:** Google  
+**Program:** Google AI Professional Certificate  
+**Estimated Time:** 3 Hours  
+**Status:** ✅ Completed  
 
 ---
 
-## 📊 Program Curriculum & Progress Tracker
-
-| Status | # | Course Module | Est. Hours | Key Topics & Applied Skills | Directory Link |
-| :---: | :---: | :--- | :---: | :--- | :---: |
-| ✅ | **01** | **AI Fundamentals** | 3 hrs | LLM mechanics, foundational prompting, prompt chaining, responsible AI | [📂 View Notes](./course-01-ai-fundamentals) |
-| ✅ | **02** | **AI for Brainstorming & Planning** | 1 hr | Creative ideation, risk identification, project timelines, Gemini Notebook hubs | [📂 View Notes](./course-02-brainstorming-planning) |
-| ✅ | **03** | **AI for Research & Insights** | 1 hr | Gemini Deep Research, multi-source summaries, Audio/Mind maps, Custom AI Advisors | [📂 View Notes](./course-03-research-insights) |
-| ⬜ | **04** | **AI for Writing & Communicating** | 1 hr | Executive summaries, email drafting, tone adaptation, clear messaging | [📂 View Notes](./course-04-writing-communicating) |
-| ⬜ | **05** | **AI for Content Creation** | 2 hrs | Multi-modal creation, script writing, visual asset generation, branding | [📂 View Notes](./course-05-content-creation) |
-| ⬜ | **06** | **AI for Data Analysis** | 1 hr | Dataset querying, pattern recognition, automated reporting & visualization | [📂 View Notes](./course-06-data-analysis) |
-| ⬜ | **07** | **AI for App Building & Deployment** | 1 hr | Rapid prototyping, LLM integration, prompt chaining, app deployment | [📂 View Notes](./course-07-app-building-deployment) |
-
-*Legend: ✅ Completed \| ⏳ In Progress \| ⬜ Not Started*
+## 📌 Course Overview
+This foundational course explores how to shift mindset from treating AI as a simple task executor to utilizing it as a dynamic, collaborative thought partner. It provides hands-on practice with Google Gemini, breaks down core Large Language Model (LLM) mechanics, and teaches foundational to advanced prompt engineering frameworks.
 
 ---
 
-## 📁 Repository Organization
+## 🎯 Key Learning Outcomes & Modules
 
-```text
-Google-AI-Journal/
-├── README.md                              # Main repository documentation & roadmap
-├── course-01-ai-fundamentals/            # Completed: GenAI concepts, prompt chaining, ethical AI
-├── course-02-brainstorming-planning/     # Completed: Ideation, project timelines, knowledge hubs
-├── course-03-research-insights/          # Completed: Deep research, multi-format summaries, AI advisors
-├── course-04-writing-communicating/      # Tone adaptation & professional communication
-├── course-05-content-creation/           # Media generation, video scripts, & multi-modal prompts
-├── course-06-data-analysis/              # Data parsing, querying, & insight generation
-└── course-07-app-building-deployment/    # Prototypes, low-code UI integration, & deployment notes
+### 1. Collaborate with AI
+- Shifted mindset toward treating GenAI models as real-time collaborators rather than basic search tools or task engines.
+
+### 2. Practice Using AI & Ideation
+- Explored hands-on interactive labs and leveraged Google Gemini for structured brainstorming, creative exploration, and concept generation.
+
+### 3. Core Mechanics of AI
+- Demystified how generative models and Large Language Models (LLMs) function, learning how to leverage their operational capabilities within professional workplaces.
+
+### 4. Foundational Prompt Framework
+- Mastered a structured prompting framework (Persona, Task, Context, Format/Constraints) to consistently extract high-quality, actionable outputs.
+
+### 5. Advanced Prompt Engineering
+- Applied multi-step prompting techniques, iterative refinement, and **prompt chaining** (using previous model outputs as inputs for downstream tasks).
+
+### 6. Responsible AI & Agents
+- Analyzed GenAI limitations, hallucinations, and bias considerations, while exploring emerging concepts in autonomous AI agents.
+
+---
+
+## 🛠 Skills & Tools Mastered
+- **Prompt Engineering:** Standard Frameworks, Iterative Refinement, Prompt Chaining
+- **AI Collaboration:** Brainstorming, Problem Structuring, Workflow Augmentation
+- **Core Concepts:** LLM Fundamentals, Responsible AI Usage, AI Agents Overview
+- **Tools:** Google Gemini / Google AI Pro Labs
