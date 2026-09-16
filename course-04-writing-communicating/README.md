@@ -1,5 +1,3 @@
-﻿# course-04-writing-communicating
-**Status:** ⬜ Not Started
 # ✍️ Course 4: Writing & Communicating
 
 **Provider:** Google (via Coursera)
